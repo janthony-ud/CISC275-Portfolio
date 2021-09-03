@@ -2,4 +2,4 @@ Justin Anthony
 
 janthony@udel.edu 
 
-[Github Repo](https://github.com/janthony-ud/CISC275-Portfolio)
+[Github Repository](https://github.com/janthony-ud/CISC275-Portfolio)
