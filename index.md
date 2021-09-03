@@ -1,3 +1,3 @@
-Justin Anthony
-janthony@udel.edu
-https://github.com/janthony-ud/CISC275-Portfolio
+Justin Anthony \n
+janthony@udel.edu \n
+[https://github.com/janthony-ud/CISC275-Portfolio]
