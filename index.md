@@ -23,4 +23,3 @@ I had done a bit of Git in 210, but only basic commit, push, pull, and status re
 
 [Change Log](https://github.com/janthony-ud/CISC275-Portfolio/blob/main/ChangeLog.html)
 
-Edit
