@@ -21,7 +21,7 @@ I had done a bit of Git in 210, but only basic commit, push, pull, and status re
 
 
 
-[To Do](https://github.com/janthony-ud/CISC275-Portfolio/blob/main/ToDo.html)
+[To Do](https://janthony-ud.github.io/275-Basic-Site/ToDo.html)
 
-[Change Log](https://github.com/janthony-ud/CISC275-Portfolio/blob/main/ChangeLog.html)
+[Change Log](https://janthony-ud.github.io/275-Basic-Site/ChangeLog.html)
 
