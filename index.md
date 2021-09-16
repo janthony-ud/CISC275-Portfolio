@@ -1,9 +1,10 @@
 Justin Anthony
 
 janthony@udel.edu 
+<div>
 
 [Github Repository](https://github.com/janthony-ud/CISC275-Portfolio)
-
+</div>
 Week 1 - 9/2-9/9
 
 [VSCode Tutorial/Documentation](https://code.visualstudio.com/docs/getstarted/userinterface)
@@ -17,6 +18,7 @@ Did one of the tutorials provided for React creating a website for a basic Tic-T
 [Git Tutorial](https://learngitbranching.js.org/)
 
 I had done a bit of Git in 210, but only basic commit, push, pull, and status related things. Finished about 60% of this tutorial. Still feeling a little shaky on how branching works and how to keep track of where your current position is among the commits, but I think one of the things that helped me was thinking about it as a data structure, ie. the list of changes behaving similarly to a linked list, so I think it'll just take more practice and hours put into understanding it to really feel comfortable with it. 
+
 
 
 [To Do](https://github.com/janthony-ud/CISC275-Portfolio/blob/main/ToDo.html)
