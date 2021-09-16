@@ -2,7 +2,7 @@ Justin Anthony
 
 janthony@udel.edu 
 
-<a href = "\CISC275-Portfolio\Scratch.html">Scratch Site!!</a>
+<a href = "CISC275-Portfolio/Scratch.html">Scratch Site!!</a>
 [Github Repository](https://github.com/janthony-ud/CISC275-Portfolio)
 
 Week 1 - 9/2-9/9
