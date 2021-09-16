@@ -27,7 +27,7 @@ Basic Basic Basic html website I made. No features yet, spent most of my time tr
 
 [Git Documentation](https://git-scm.com/docs)
 
-Some helpful notes on the different things Git provides
+Some helpful notes on the different things Git provides that I came back to many times
 
 [Git Youtube Channel](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
 
