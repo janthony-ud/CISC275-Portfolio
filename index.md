@@ -1,10 +1,10 @@
 Justin Anthony
 
 janthony@udel.edu 
-<div>
 
+<a href = "./cisc275-portfolio/Scratch.html" target = "_top">Scratch Site!!</a>
 [Github Repository](https://github.com/janthony-ud/CISC275-Portfolio)
-</div>
+
 Week 1 - 9/2-9/9
 
 [VSCode Tutorial/Documentation](https://code.visualstudio.com/docs/getstarted/userinterface)
