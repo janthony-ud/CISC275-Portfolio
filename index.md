@@ -34,6 +34,10 @@ Some helpful notes on the different things Git provides that I came back to many
 Incredibly helpful youtube playlist that I used throughout the git tutorial I completed this week (the one I had started last week) and bookmarked because of how helpful it was.
 
 
+[TypeScript Calculator](https://github.com/janthony-ud/Silly-Calculator)
+
+Used [this](https://www.youtube.com/watch?v=L02BfvA7mgA) to create a simple command line calculator using three inputs (2 numbers and an operator). Didn't realize it would be so simple/beginner level (not very time consuming) when I started, but was a good introduction to TypeScript syntax, and I used switch cases and types which I don't use too often, so that was neat.
+
 [To Do](https://janthony-ud.github.io/275-Basic-Site/ToDo.html)
 
 [Change Log](https://janthony-ud.github.io/275-Basic-Site/ChangeLog.html)
