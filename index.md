@@ -42,7 +42,7 @@ Used [this](https://www.youtube.com/watch?v=L02BfvA7mgA) to create a simple comm
 
 [React Calculator](https://github.com/janthony-ud/React-Calculator)
 
-Used [some examples](https://reactjsexample.com/tag/calculator/) from here to get a basis of how a calculator, and combined that with my past Typescript Calculator to create a React Calculator. Took a while to really understand React components and what to even include in the first place, but I got the hang of it eventually. Still a skeleton of what I want to do with it, but I think I will get into making it more aesthetic/user friendly next week.
+Used [some examples](https://reactjsexample.com/tag/calculator/) from here to get a basis of how a React app would work, and combined that with my past Typescript Calculator to create a React Calculator. Took a while to really understand React components and what to even include in the first place, but I got the hang of it eventually. Still a skeleton of what I want to do with it, but I think I will get into making it more aesthetic/user friendly next week.
 
 [To Do](https://janthony-ud.github.io/275-Basic-Site/ToDo.html)
 
