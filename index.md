@@ -38,6 +38,10 @@ Incredibly helpful youtube playlist that I used throughout the git tutorial I co
 
 Used [this](https://www.youtube.com/watch?v=L02BfvA7mgA) to create a simple command line calculator using three inputs (2 numbers and an operator). Didn't realize it would be so simple/beginner level (not very time consuming) when I started, but was a good introduction to TypeScript syntax, and I used switch cases and types which I don't use too often, so that was neat.
 
+[React Calculator](https://github.com/janthony-ud/React-Calculator)
+
+Used [some examples](https://reactjsexample.com/tag/calculator/) from here to get a basis of how a calculator, and combined that with my past Typescript Calculator to create a React Calculator. Took a while to really understand React components and what to even include in the first place, but I got the hang of it eventually. Still a skeleton of what I want to do with it, but I think I will get into making it more aesthetic/user friendly next week.
+
 [To Do](https://janthony-ud.github.io/275-Basic-Site/ToDo.html)
 
 [Change Log](https://janthony-ud.github.io/275-Basic-Site/ChangeLog.html)
