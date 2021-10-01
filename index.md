@@ -9,7 +9,7 @@ Most Important Project:
 
 [React Calculator](https://github.com/janthony-ud/React-Calculator)
 
-Used [some examples](https://reactjsexample.com/tag/calculator/) from here to get a basis of how a React app would work, and combined that with my past Typescript Calculator to create a React Calculator. Took a while to really understand React components and what to even include in the first place, but I got the hang of it eventually. Still a skeleton of what I want to do with it, but I think I will get into making it more aesthetic/user friendly next week.
+Used [some examples](https://reactjsexample.com/tag/calculator/) from here to get a basis of how a React app would work, and combined that with my past Typescript Calculator to create a React Calculator. Took a while to really understand React components and what to even include in the first place, but I got the hang of it eventually. Was unable to deploy it to github pages, tried for 4 hours and even with a TA couldn't get it to work. 
 
 For video of usage: go [here](https://github.com/janthony-ud/275-Basic-Site/blob/main/2021-10-01_11-34-33.mp4) and download the mp4 file. Apologies for the clunky formatting of this, I couldn't figure out a better way to upload a video, especially since I was already submitting it late. 
 
