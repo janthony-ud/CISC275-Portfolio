@@ -5,6 +5,15 @@ janthony@udel.edu
 
 [Github Repository](https://github.com/janthony-ud/CISC275-Portfolio)
 
+Most Important Project:
+
+[React Calculator](https://github.com/janthony-ud/React-Calculator)
+
+Used [some examples](https://reactjsexample.com/tag/calculator/) from here to get a basis of how a React app would work, and combined that with my past Typescript Calculator to create a React Calculator. Took a while to really understand React components and what to even include in the first place, but I got the hang of it eventually. Still a skeleton of what I want to do with it, but I think I will get into making it more aesthetic/user friendly next week.
+
+For video of usage: go [here](https://github.com/janthony-ud/275-Basic-Site/blob/main/2021-10-01_11-34-33.mp4) and download the mp4 file. Apologies for the clunky formatting of this, I couldn't figure out a better way to upload a video, especially since I was already submitting it late. 
+
+
 Week 1 - 9/2-9/9
 
 [VSCode Tutorial/Documentation](https://code.visualstudio.com/docs/getstarted/userinterface)
@@ -40,9 +49,7 @@ Week of September 23
 
 Used [this](https://www.youtube.com/watch?v=L02BfvA7mgA) to create a simple command line calculator using three inputs (2 numbers and an operator). Didn't realize it would be so simple/beginner level (not very time consuming) when I started, but was a good introduction to TypeScript syntax, and I used switch cases and types which I don't use too often, so that was neat.
 
-[React Calculator](https://github.com/janthony-ud/React-Calculator)
 
-Used [some examples](https://reactjsexample.com/tag/calculator/) from here to get a basis of how a React app would work, and combined that with my past Typescript Calculator to create a React Calculator. Took a while to really understand React components and what to even include in the first place, but I got the hang of it eventually. Still a skeleton of what I want to do with it, but I think I will get into making it more aesthetic/user friendly next week.
 
 [To Do](https://janthony-ud.github.io/275-Basic-Site/ToDo.html)
 
